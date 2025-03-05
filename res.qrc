@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/exitAct.png</file>
+        <file>res/newAct.png</file>
+        <file>res/openAct.png</file>
+        <file>res/printAct.png</file>
+        <file>res/printPreviewAct.png</file>
+        <file>res/saveAct.png</file>
+        <file>res/saveAsAct.png</file>
+        <file>res/copyAct.png</file>
+        <file>res/cutAct.png</file>
+        <file>res/pasteAct.png</file>
+        <file>res/redoAct.png</file>
+        <file>res/undoAct.png</file>
+        <file>res/boldAct.png</file>
+        <file>res/centerAct.png</file>
+        <file>res/italicAct.png</file>
+        <file>res/justifyAct.png</file>
+        <file>res/leftAct.png</file>
+        <file>res/rightAct.png</file>
+        <file>res/underlineAct.png</file>
+        <file>res/paragraphMenu.png</file>
+        <file>res/typefaceMenu.png</file>
+        <file>res/aboutAct.png</file>
+        <file>res/aboutqtAct.png</file>
+        <file>res/cascadeAct.png</file>
+        <file>res/closeAct.png</file>
+        <file>res/closeAllAct.png</file>
+        <file>res/nextAct.png</file>
+        <file>res/previousAct.png</file>
+        <file>res/tileAct.png</file>
+    </qresource>
+</RCC>
